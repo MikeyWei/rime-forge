@@ -1,6 +1,8 @@
 patch:
   #載入朙月拼音擴充詞庫
   'translator/dictionary': luna_pinyin.extended
+  #使 macOS 下朙月拼音候选字水平显示
+  style/horizontal: true
 
 __patch:
 # 优化的符号输入
